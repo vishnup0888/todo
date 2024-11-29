@@ -1,0 +1,8 @@
+.main{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    justify-content: space-evenly;
+}
+.b{
+    background-color: sandybrown;
+}
